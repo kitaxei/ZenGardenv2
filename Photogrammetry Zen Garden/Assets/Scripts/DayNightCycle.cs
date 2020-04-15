@@ -61,6 +61,16 @@ public class DayNightCycle : MonoBehaviour
     [Header("Sun Light")]
     [SerializeField]
     private Transform dailyRotation;
+    [SerializeField]
+    private Light sun;
+    private float intensity;
+    [SerializeField]
+    private float sunBaseIntensity = 1f;
+    [SerializeField]
+    private float sunVariation = 1.5f;
+    [SerializeField]
+    private Gradient sunColor;
+
 
     private void Update()
     {
@@ -71,11 +81,12 @@ public class DayNightCycle : MonoBehaviour
         }
 
         AdjustSunRotation();
+        SunIntensity();
     }
     
     private void UpdateTimeScale()
     {
-        _timeScale = 24 / (_targetDayLength / 60);
+        _timeScale = 6 / (_targetDayLength / 60);
 
     }
     private void UpdateTime()
@@ -96,10 +107,22 @@ public class DayNightCycle : MonoBehaviour
     //rotates the sun daily (and seasonally)
     private void AdjustSunRotation()
     {
-        float sunAngle = timeOfDay * 350f;
+        float sunAngle = timeOfDay * 180f;
         dailyRotation.transform.localRotation = Quaternion.Euler(new Vector3(0f, 0f, sunAngle));
     }
 
+    private void SunIntensity()
+    {
+        intensity = Vector3.Dot(sun.transform.forward, Vector3.down);
+        intensity = Mathf.Clamp01(intensity);
+
+        sun.intensity = intensity * sunVariation * sunBaseIntensity;
+    }
+
+    private void AdjustSunColor()
+    {
+        sun.color = sunColor.Evaluate(intensity);
+    }
 }
 
 
