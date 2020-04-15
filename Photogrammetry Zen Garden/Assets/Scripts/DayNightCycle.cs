@@ -107,7 +107,7 @@ public class DayNightCycle : MonoBehaviour
     //rotates the sun daily (and seasonally)
     private void AdjustSunRotation()
     {
-        float sunAngle = timeOfDay * 180f;
+        float sunAngle = timeOfDay * 360f;
         dailyRotation.transform.localRotation = Quaternion.Euler(new Vector3(0f, 0f, sunAngle));
     }
 
