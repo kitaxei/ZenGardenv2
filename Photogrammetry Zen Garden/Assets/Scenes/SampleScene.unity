@@ -2681,7 +2681,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pegasus - Abigail Maughan
+  m_Text: Pegasus
 --- !u!222 &224721188
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3565,7 +3565,7 @@ MonoBehaviour:
   m_Text: My mom decorated my beautiful wedding cake. Decorating was her profession
     and she darn good at it! She trained hundreds of decorators, from all corners
     of Utah and neighboring states. I would give anything to have her decorate a
-    cake for me again.
+    cake for me again. -DP
 --- !u!222 &303898329
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4469,7 +4469,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Red Paper Crane - Katie Singta
+  m_Text: Red Paper Crane
 --- !u!222 &395189252
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4709,7 +4709,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Dashing Billie - Bella Parkinson
+  m_Text: Dashing Billie
 --- !u!222 &424010341
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -7154,7 +7154,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: This poor horse lost a leg due to my childhood love of fairies and fantasy.
     In doing so, it helped foster a love of stories and storytelling that continues
-    to this day. I appreciate your sacrifice, little pegasus.
+    to this day. I appreciate your sacrifice, little pegasus. -AM
 --- !u!222 &718871105
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8572,6 +8572,7 @@ MonoBehaviour:
   m_Text: It's something that connects me to my dad through nature, which is how
     me and my dad bond a lot throughout my life. Also, it's a huge signifier of his
     unconditional support of me and my interests, even when they're as funky as this!
+    -SH
 --- !u!222 &881325518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9494,7 +9495,7 @@ MonoBehaviour:
     Ever since then, I've practiced folding cranes to symbolize best wishes  and
     support for my disheartened community. For some reason, this red crane out of
     the many I folded felt special. Perhaps it was the red color that he uses to
-    describe us poetically.
+    describe us poetically. -KS
 --- !u!222 &962588743
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10113,7 +10114,7 @@ MonoBehaviour:
     the little guy with her own two hands. I fell in love with him instantly, so
     I had to have him. Much later, I realized that he\u2019s been helping me grow
     up. He's a reminder that I have agency. I can do what makes me happy--Ukrainian
-    teddy bears included! No regrets."
+    teddy bears included! No regrets. -BP"
 --- !u!222 &1048525960
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10522,7 +10523,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jazzy the Cat - Jessica Wright
+  m_Text: Jazzy the Cat
 --- !u!222 &1103323238
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10893,7 +10894,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Snowy Owl - Maegan Castleton\r"
+  m_Text: Snowy Owl
 --- !u!222 &1154273638
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14309,7 +14310,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Bear Skull - Sam Howard
+  m_Text: Bear Skull
 --- !u!222 &1574252916
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14559,7 +14560,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Stand Back, Said the Elephant, I\u2019m Going to Sneeze! - Abigail Maughan"
+  m_Text: "Stand Back, Said the Elephant, I\u2019m Going to Sneeze!"
 --- !u!222 &1584491070
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -15262,13 +15263,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Snowy Owl - Maegan Castleton
-
-    This snowy owl was from a toy line
-    that doesn''t exist anymore. I don''t remember her name because I could never
-    decide on one that I liked. I thought she was the most perfect toy until my dog
-    got to her. Yet, somehow, there''s something about this little unnamed owl forever
-    maimed by my big, dumb beagle, that is still very dear to me.
+  m_Text: 'This snowy owl was from a toy line that doesn''t exist anymore. I don''t
+    remember her name because I could never decide on one that I liked. I thought
+    she was the most perfect toy until my dog got to her. Yet, somehow, there''s
+    something about this little unnamed owl forever maimed by my big, dumb beagle,
+    that is still very dear to me. -MC
 
 '
 --- !u!222 &1627627129
@@ -16355,7 +16354,7 @@ MonoBehaviour:
   m_Text: Jazzy is very special to me because I got her when I was around 8 or 9
     years old, when I had to go through a couple of tests and a surgery. It was the
     only toy the doctors would let me have while staying in the hospital and hold
-    during my procedures, so I grew attached to her.
+    during my procedures, so I grew attached to her. -JW
 --- !u!222 &1758570442
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18028,7 +18027,7 @@ MonoBehaviour:
   m_Text: "\nMy dad adored this book as a kid and made that I adored this book as
     a kid. I can\u2019t count the number of times we read it before bed, although
     the status of the book\u2019s binding can give a hint--a lot. All together now:
-    \u201CPleeeeeeeeeeeeaaaasse, don\u2019t sneeze!!!!\u201D\r\n"
+    \u201CPleeeeeeeeeeeeaaaasse, don\u2019t sneeze!!!!\u201D -AM\n"
 --- !u!222 &1906742432
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18852,9 +18851,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'You can''t touch data, but it contains valuable information. I manage
-    all my data daily knowing a hard drive could stop at any moment and I could lose
-    everything--another reason for another hard drive. '
+  m_Text: You can't touch data, but it contains valuable information. I manage all
+    my data daily knowing a hard drive could stop at any moment and I could lose
+    everything--another reason for another hard drive. -AS
 --- !u!222 &1965051170
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20173,7 +20172,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cake Topper - Darlene Parkinson
+  m_Text: Cake Topper
 --- !u!222 &2089627431
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21246,7 +21245,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Computer Hard Drive - AJ Singta
+  m_Text: Computer Hard Drive
 --- !u!222 &2116126587
 CanvasRenderer:
   m_ObjectHideFlags: 0
